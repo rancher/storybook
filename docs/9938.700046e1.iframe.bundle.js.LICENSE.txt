@@ -46,31 +46,31 @@ PERFORMANCE OF THIS SOFTWARE.
  */
 
 /**
-* @vue/compiler-core v3.5.9
+* @vue/compiler-core v3.5.10
 * (c) 2018-present Yuxi (Evan) You and Vue contributors
 * @license MIT
 **/
 
 /**
-* @vue/compiler-dom v3.5.9
+* @vue/compiler-dom v3.5.10
 * (c) 2018-present Yuxi (Evan) You and Vue contributors
 * @license MIT
 **/
 
 /**
-* @vue/runtime-core v3.5.9
+* @vue/runtime-core v3.5.10
 * (c) 2018-present Yuxi (Evan) You and Vue contributors
 * @license MIT
 **/
 
 /**
-* @vue/runtime-dom v3.5.9
+* @vue/runtime-dom v3.5.10
 * (c) 2018-present Yuxi (Evan) You and Vue contributors
 * @license MIT
 **/
 
 /**
-* @vue/shared v3.5.9
+* @vue/shared v3.5.10
 * (c) 2018-present Yuxi (Evan) You and Vue contributors
 * @license MIT
 **/
